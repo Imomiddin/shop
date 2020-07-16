@@ -177,7 +177,6 @@ return [
 
         /** my providers for this project */
         Barryvdh\LaravelIdeHelper\IdeHelperServiceProvider::class,
-
     ],
 
     /*
